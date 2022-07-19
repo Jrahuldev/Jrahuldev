@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="50%" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Jayarahul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrahuldev&label=Profile%20views&color=0e75b6&style=flat" alt="jrahuldev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jrahuluv" target="blank"><img src="https://img.shields.io/twitter/follow/jrahuluv?logo=twitter&style=for-the-badge" alt="jrahuluv" /></a> </p>
-
+<img  align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="jrahuluv" width="400"/>
 - 🔭 I’m currently working on **portfolio site**
 
 - 🌱 I’m currently learning **React**
@@ -35,6 +35,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrahuldev&show_icons=true&locale=en&layout=compact" alt="jrahuldev" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrahuldev&show_icons=true&locale=en" alt="jrahuldev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jrahuldev&show_icons=true&locale=en" alt="jrahuldev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrahuldev&" alt="jrahuldev" /></p>
