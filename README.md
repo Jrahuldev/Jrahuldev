@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jrahuldev&show_icons=true&locale=en" alt="jrahuldev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrahuldev&" alt="jrahuldev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrahuldev&" alt="jrahuldev" /></p> 
