@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/ko7twHhomhk8E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <h1 align="center">Hi 👋, I'm Jayarahul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
