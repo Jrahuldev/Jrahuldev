@@ -1,3 +1,4 @@
+<iframe src="https://giphy.com/embed/ko7twHhomhk8E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <h1 align="center">Hi 👋, I'm Jayarahul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
